@@ -267,3 +267,9 @@
   Place: Japan  
   Bio: PhD student in Software Engineering  
   Github: [sruangwan](https://github.com/sruangwan)  
+  
+  
+- Name: Sara Khadar
+  Place: NYC
+  Bio: Art Director/Designer
+  Github: [kid-sk](https://github.com/kid-sk)
