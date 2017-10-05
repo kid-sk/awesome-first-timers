@@ -271,5 +271,5 @@
   
 - Name: Sara Khadar  
   Place: NYC  
-  Bio: Art Director/Designer  
+  Bio: Art Director/Designer 
   Github: [kid-sk](https://github.com/kid-sk)  
